@@ -19,6 +19,8 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 💬 Displays results up to two decimal places
 
 🧠 Beginner-friendly, clean, and well-commented C code
+
+
 💡 Future Improvements
 
 Add modulus (%) and power (^) operations
@@ -29,12 +31,14 @@ Build a graphical interface (GUI)
 
 Extend to handle multiple expressions (e.g., 3 + 5 * 2)
 
+
 👨‍💻 Author
 
 S. Vinayak
-🔗 GitHub Profile
+🔗 https://github.com/vinayak-exe
 
 💬 “Learning C, one line at a time!”
+
 
 🏷️ License
 
