@@ -1,4 +1,4 @@
-# projects-in-c
+# Beginner project in c
 🧮 Basic Calculator in C
 
 A simple and interactive command-line calculator built using the C programming language.
