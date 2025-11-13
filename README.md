@@ -40,7 +40,7 @@ Platform: Windows / Linux / macOS
 
 🚀 Run the Project
 🔹 1. Clone the Repository
-git clone https://github.com/yourusername/calculator-c.git
+git clone https://github.com/vinayak-exe/calculator-c.git
 
 🔹 2. Navigate into the Project Folder
 cd calculator-c
